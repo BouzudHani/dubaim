@@ -15,7 +15,9 @@ Clean Architecture Organized with separate layers for data, domain, and presenta
 
 State Managment (Provider).
 
-Local database to store favorite items (Hive NoSQL)
+Local database to store favorite items (Hive NoSQL).
+
+use .env file for security to store App keys
 
 
 
