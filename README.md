@@ -13,7 +13,9 @@ Users can favorite/unfavorite items, and favorites persist between app launches.
 
 Clean Architecture Organized with separate layers for data, domain, and presentation.
 
-State Managment (Provider)
+State Managment (Provider).
+
+Local database to store favorite items (Hive NoSQL)
 
 
 
